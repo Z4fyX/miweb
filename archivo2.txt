@@ -1,3 +1,0 @@
-password = 1234
-nombre = yael
-age = 19
